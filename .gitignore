@@ -6,6 +6,7 @@
 *.obj
 *.o
 *.out
+*.html
 
 # Ignore temporary files
 *.tmp

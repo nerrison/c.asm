@@ -4,7 +4,9 @@
 This repository contains a set of  *C* and  *Assembly* programs for various programming exercises, covering arrays, strings, structures, file handling, algorithms, and basic assembly operations.
 
     ### Folder structure
+
         > /c - contains all c programs
+
             1. arr_stats.c – Computes the smallest, largest, and average of an integer array.
             2. array_statistics.c – Similar array statistics program .
             3. book_records.c – Stores book details and saves each book to a separate file.
@@ -24,8 +26,11 @@ This repository contains a set of  *C* and  *Assembly* programs for various prog
             17. temp_reading.c – Reads daily temperatures, computes average, and finds high/low values.
             18. two_sum.c – Finds two array elements that sum to a target number.
             19. vowel_counter.c – Counts vowels in a string and prints their position
+
             ...
+
         > assembly - contains all asm programs
+        
             1. boot_sum.asm - emphasizes that it’s a bootloader program that sums numbers.
 
     ### How to compile

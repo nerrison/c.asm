@@ -5,6 +5,8 @@ This repository contains a set of  *C* and  *Assembly* programs for various prog
 
 ### Folder structure
 
+---
+
 **\> /c - contains all c programs**
 
  1. arr_stats.c – Computes the smallest, largest, and average of an integer array.
@@ -33,9 +35,11 @@ This repository contains a set of  *C* and  *Assembly* programs for various prog
 
  1. boot_sum.asm - emphasizes that it’s a bootloader program that sums numbers.
 
+---
+
 ### How to compile
 
-\> C Programs:
+***\> C Programs:***
 
 - Compile
 
@@ -48,7 +52,7 @@ $ gcc program_name.c -o program_name
 $ ./program_name
 ```
 
-\> Assembly Programs:
+***\> Assembly Programs:***
 
 - Assemble
 

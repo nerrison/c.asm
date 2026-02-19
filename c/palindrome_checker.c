@@ -62,7 +62,7 @@ int main(void)
 
     while (1)
     {
-        printf("\n>> your entry (use ctrl + C to quit)\n> ");
+        printf("\n>> your entry ('ctrl+C' to quit)\n> ");
 
         if (fgets(input, capacity, stdin) == NULL)
             break;

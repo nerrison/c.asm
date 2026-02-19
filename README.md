@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains a set of  *C* and  *Assembly* programs for various programming exercises, covering arrays, strings, structures, file handling, algorithms, and basic assembly operations.
 
-    ### Folder structure
+### Folder structure
 
         > /c - contains all c programs
 
@@ -30,7 +30,7 @@ This repository contains a set of  *C* and  *Assembly* programs for various prog
             ...
 
         > assembly - contains all asm programs
-        
+
             1. boot_sum.asm - emphasizes that it’s a bootloader program that sums numbers.
 
     ### How to compile

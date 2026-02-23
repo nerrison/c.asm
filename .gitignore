@@ -1,6 +1,6 @@
 # Ignore VS Code settings folder
 .vscode/
-explorer/
+asm_explorer/
 
 # Ignore compiled object files and executables
 *.exe
